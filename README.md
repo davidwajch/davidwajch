@@ -1,38 +1,130 @@
-<div align="center">
+## Olá, eu sou o David Wajchenberg!
 
-## Olá, eu sou o David Wajchenberg
+**`Desenvolvedor Full Stack & Mobile`**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Full+Stack+%26+Mobile;Web+%2B+APIs+%2B+Dados+%2B+Integracoes;Flutter+%7C+React+%7C+Python+%7C+Java+%7C+C%2B%2B&repeat=true" alt="Título animado" />
+Sou **full stack com foco forte em mobile**: interfaces web e apps, **APIs**, **dados** e integrações — do **React** ao **Flutter**, do **Python** ao **Java**. Base em **São Paulo, Brasil**.
+
+Pessoal que veio atrás do **GitHub Stats:** a API pública às vezes fica instável; você pode hospedar a sua seguindo este [tutorial (deploy no Vercel)](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance).
+
+<p align="left">
+  <a href="https://github.com/davidwajch?tab=repositories&sort=stargazers">
+    <img
+      alt="Total de estrelas"
+      title="Estrelas nos repositórios"
+      src="https://custom-icon-badges.demolab.com/github/stars/davidwajch?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+    />
+  </a>
+  <a href="https://github.com/davidwajch?tab=followers">
+    <img
+      alt="Seguidores no GitHub"
+      title="Me siga no GitHub"
+      src="https://custom-icon-badges.demolab.com/github/followers/davidwajch?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+    />
+  </a>
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=false&vCenter=true&width=600&lines=Web+%2B+APIs+%2B+Dados;Flutter+%7C+React+%7C+Python+%7C+Java+%7C+C%2B%2B&repeat=true" alt="Linhas animadas" />
+
+##
+
+### Linguagens e tecnologias
+
+<img
+  align="left"
+  alt="Flutter"
+  title="Flutter"
+  width="36px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg"
+/>
+<img
+  align="left"
+  alt="Dart"
+  title="Dart"
+  width="36px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg"
+/>
+<img
+  align="left"
+  alt="React"
+  title="React"
+  width="36px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
+/>
+<img
+  align="left"
+  alt="JavaScript"
+  title="JavaScript"
+  width="36px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+/>
+<img
+  align="left"
+  alt="Python"
+  title="Python"
+  width="36px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
+<img
+  align="left"
+  alt="Java"
+  title="Java"
+  width="36px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
+/>
+<img
+  align="left"
+  alt="Spring"
+  title="Spring"
+  width="36px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
+/>
+<img
+  align="left"
+  alt="PostgreSQL"
+  title="PostgreSQL"
+  width="36px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
+/>
+<img
+  align="left"
+  alt="Firebase"
+  title="Firebase"
+  width="36px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg"
+/>
+<img
+  align="left"
+  alt="C++"
+  title="C++"
+  width="36px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
+/>
+<img
+  align="left"
+  alt="Git"
+  title="Git"
+  width="36px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
 
 <br/>
-
-Desenvolvo **interfaces** (web e mobile), **APIs**, **dados** e integrações — do React ao Flutter, do Python ao Java.
-
-**São Paulo, Brasil**
-
 <br/>
-
-### Tecnologias
-
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-
 <br/>
 
 ### Nível de uso nas tecnologias (%)
 
-<sub>Estimativa do que você mais usa no dia a dia. Para mudar um valor, altere o número na URL de cada imagem (<code>progress-bar.dev/<b>88</b>/</code>).</sub>
-
-<br/>
+<sub>Estimativa do dia a dia — altere o número em <code>progress-bar.dev/<b>90</b>/</code> na URL de cada barra.</sub>
 
 | Tecnologia | Uso |
 |:--|:--|
@@ -47,21 +139,40 @@ Desenvolvo **interfaces** (web e mobile), **APIs**, **dados** e integrações �
 | **C++** | ![](https://progress-bar.dev/58/?width=420&color=00599C&title=C%2B%2B) |
 | **Git** | ![](https://progress-bar.dev/82/?width=420&color=F05032&title=Git) |
 
-<br/>
-<br/>
+##
 
-### Estatísticas do GitHub
+### Estatísticas
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=davidwajch&show_icons=true&theme=tokyonight&include_all_commits=true&rank_icon=github&hide_border=true" alt="Estatísticas do GitHub" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidwajch&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais usadas" />
+<p>
+  <img
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats.vercel.app/api?username=davidwajch&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=false"
+  />
+  <img
+    align="left"
+    alt="Linguagens mais usadas"
+    height="200"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidwajch&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&locale=pt-br&hide_border=false"
+  />
+</p>
 
-<img src="https://streak-stats.demolab.com?user=davidwajch&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt_BR" alt="Streak de contribuições" />
+<br clear="both"/>
 
-<br/>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=davidwajch&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt_BR"
+    alt="Sequência de contribuições"
+  />
+</p>
+
+##
 
 ### Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-wajchenberg/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/davidwajch)
-
+<div>
+  <a href="https://www.linkedin.com/in/david-wajchenberg/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/davidwajch" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </div>
