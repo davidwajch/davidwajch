@@ -49,32 +49,63 @@ Pessoal que veio atrás do **GitHub Stats:** a API pública às vezes fica inst�
 
 ### Estatísticas
 
-<sub>Se aparecer <strong>Error Fetching Resource</strong> (no GitHub ou no preview do VS Code/Cursor): o proxy de imagens do GitHub (Camo) não conseguiu baixar a API pública — costuma ser <strong>limite de uso</strong> ou instabilidade. Espere um pouco, atualize a página ou <a href="https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance">hospede sua própria instância no Vercel</a> e troque o domínio <code>github-readme-stats.vercel.app</code> pelo seu.</sub>
+<sub>O README do GitHub <strong>não executa JavaScript</strong> (não dá para usar <code>onerror</code> ou try/catch nas imagens). Se o proxy <strong>Camo</strong> falhar, use os links abaixo ou <strong>clique nas imagens</strong> para abrir a mesma URL direto no navegador. Solução definitiva: <a href="https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance">deploy próprio no Vercel</a>.</sub>
 
+<!-- URLs dos cards (mantém igual em href e src para clicar = mesma API) -->
 <p>
-  <img
-    align="left"
-    alt="GitHub Stats"
-    height="200"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=davidwajch&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true&cache_seconds=86400"
-  />
-  <img
-    align="left"
-    alt="Linguagens mais usadas"
-    height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidwajch&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&locale=pt-br&hide_border=true&cache_seconds=86400"
-  />
+  <a
+    target="_blank"
+    rel="noopener noreferrer"
+    title="Abrir card de estatísticas (se a imagem não carregar)"
+    href="https://github-readme-stats.vercel.app/api?username=davidwajch&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true&cache_seconds=86400"
+  >
+    <img
+      align="left"
+      alt="GitHub Stats"
+      height="200"
+      style="padding-right: 10px;"
+      src="https://github-readme-stats.vercel.app/api?username=davidwajch&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true&cache_seconds=86400"
+    />
+  </a>
+  <a
+    target="_blank"
+    rel="noopener noreferrer"
+    title="Abrir card de linguagens (se a imagem não carregar)"
+    href="https://github-readme-stats.vercel.app/api/top-langs/?username=davidwajch&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&locale=pt-br&hide_border=true&cache_seconds=86400"
+  >
+    <img
+      align="left"
+      alt="Linguagens mais usadas"
+      height="200"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidwajch&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&locale=pt-br&hide_border=true&cache_seconds=86400"
+    />
+  </a>
 </p>
 
 <br clear="both"/>
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=davidwajch&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt_BR"
-    alt="Sequência de contribuições"
-  />
+  <a
+    target="_blank"
+    rel="noopener noreferrer"
+    title="Abrir streak (se a imagem não carregar)"
+    href="https://streak-stats.demolab.com?user=davidwajch&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt_BR"
+  >
+    <img
+      src="https://streak-stats.demolab.com?user=davidwajch&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt_BR"
+      alt="Sequência de contribuições"
+    />
+  </a>
 </p>
+
+<details>
+<summary><strong>Imagem com “Error Fetching Resource”? Abrir direto (sem proxy do GitHub)</strong></summary>
+
+- [Card — estatísticas gerais](https://github-readme-stats.vercel.app/api?username=davidwajch&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true&cache_seconds=86400)
+- [Card — linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=davidwajch&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&locale=pt-br&hide_border=true&cache_seconds=86400)
+- [Streak de contribuições](https://streak-stats.demolab.com?user=davidwajch&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt_BR)
+
+</details>
 
 ##
 
