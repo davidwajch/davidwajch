@@ -23,7 +23,8 @@ jobs:
         env:
           STATS_BASE: ${{ vars.README_STATS_URL }}
         run: |
-          BASE="${STATS_BASE:-https://github-readme-stats.vercel.app}"
+          # Instância oficial costuma retornar 503; mirror estável como padrão (vars.README_STATS_URL sobrescreve).
+          BASE="${STATS_BASE:-https://readme-stats-fast.vercel.app}"
           BASE="${BASE%/}"
           mkdir -p assets
 
