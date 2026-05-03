@@ -4,10 +4,6 @@
 
 **Full Stack & Mobile** · Web, APIs, dados e apps — do React ao Flutter, do Python ao Java.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-David_Wajchenberg-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-wajchenberg/)
-[![GitHub](https://img.shields.io/badge/GitHub-davidwajch-181717?style=for-the-badge&logo=github)](https://github.com/davidwajch)
-[![Location](https://img.shields.io/badge/São_Paulo-Brasil-239120?style=for-the-badge)](https://github.com/davidwajch)
-
 </div>
 
 ---
@@ -70,12 +66,22 @@ Construo ponta a ponta: **interfaces** (web e mobile), **serviços e APIs**, **d
 
 ---
 
-### Contato
-
-- **LinkedIn:** [linkedin.com/in/david-wajchenberg](https://www.linkedin.com/in/david-wajchenberg/)
-
 <div align="center">
 
 <sub>Perfil inspirado no estilo de README com badges e stats (como em tutoriais tipo o do vídeo que você mandou). Se quiser trocar tema das stats, mude o parâmetro <code>theme=</code> nos links das imagens.</sub>
+
+</div>
+
+---
+
+### Contato
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-David_Wajchenberg-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-wajchenberg/)
+[![GitHub](https://img.shields.io/badge/GitHub-davidwajch-181717?style=for-the-badge&logo=github)](https://github.com/davidwajch)
+[![Location](https://img.shields.io/badge/São_Paulo-Brasil-239120?style=for-the-badge)](https://github.com/davidwajch)
+
+**LinkedIn:** [linkedin.com/in/david-wajchenberg](https://www.linkedin.com/in/david-wajchenberg/)
 
 </div>
