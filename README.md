@@ -41,7 +41,7 @@ Web, mobile, APIs e dados (React, Flutter, Python, Java).
 
 <br clear="both"/>
 
-<p align="center">
+<p align="left">
   <img
     src="https://raw.githubusercontent.com/davidwajch/davidwajch/main/assets/github-streak.svg"
     alt="Sequência de contribuições"
