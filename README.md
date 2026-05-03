@@ -49,19 +49,21 @@ Pessoal que veio atrás do **GitHub Stats:** a API pública às vezes fica inst�
 
 ### Estatísticas
 
+<sub>Se aparecer <strong>Error Fetching Resource</strong> (no GitHub ou no preview do VS Code/Cursor): o proxy de imagens do GitHub (Camo) não conseguiu baixar a API pública — costuma ser <strong>limite de uso</strong> ou instabilidade. Espere um pouco, atualize a página ou <a href="https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance">hospede sua própria instância no Vercel</a> e troque o domínio <code>github-readme-stats.vercel.app</code> pelo seu.</sub>
+
 <p>
   <img
     align="left"
     alt="GitHub Stats"
     height="200"
     style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=davidwajch&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=false"
+    src="https://github-readme-stats.vercel.app/api?username=davidwajch&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true&cache_seconds=86400"
   />
   <img
     align="left"
     alt="Linguagens mais usadas"
     height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidwajch&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&locale=pt-br&hide_border=false"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidwajch&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&locale=pt-br&hide_border=true&cache_seconds=86400"
   />
 </p>
 
