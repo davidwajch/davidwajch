@@ -26,10 +26,10 @@ Web, mobile, APIs e dados (React, Flutter, Python, Java).
 <p>
   <img
     align="left"
-    alt="GitHub Stats"
+    alt="Sequência de contribuições"
     height="200"
     style="padding-right: 10px;"
-    src="https://raw.githubusercontent.com/davidwajch/davidwajch/main/assets/github-stats.svg"
+    src="https://raw.githubusercontent.com/davidwajch/davidwajch/main/assets/github-streak.svg"
   />
   <img
     align="left"
@@ -40,13 +40,6 @@ Web, mobile, APIs e dados (React, Flutter, Python, Java).
 </p>
 
 <br clear="both"/>
-
-<p align="left">
-  <img
-    src="https://raw.githubusercontent.com/davidwajch/davidwajch/main/assets/github-streak.svg"
-    alt="Sequência de contribuições"
-  />
-</p>
 
 ### Linguagens e tecnologias
 
