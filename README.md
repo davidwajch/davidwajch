@@ -4,6 +4,8 @@
 
 **Full Stack & Mobile** · Web, APIs, dados e apps — do React ao Flutter, do Python ao Java.
 
+*São Paulo, Brasil*
+
 </div>
 
 ---
@@ -32,19 +34,6 @@ Construo ponta a ponta: **interfaces** (web e mobile), **serviços e APIs**, **d
 
 ---
 
-### GitHub em números
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=davidwajch&show_icons=true&theme=tokyonight&include_all_commits=true&rank_icon=github&hide_border=true" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidwajch&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais usadas" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=davidwajch&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt_BR" alt="Sequência de contribuições" />
-</p>
-
----
-
 ### Destaques
 
 | Projeto | Descrição |
@@ -66,11 +55,18 @@ Construo ponta a ponta: **interfaces** (web e mobile), **serviços e APIs**, **d
 
 ---
 
-<div align="center">
+### GitHub em números
 
-<sub>Perfil inspirado no estilo de README com badges e stats (como em tutoriais tipo o do vídeo que você mandou). Se quiser trocar tema das stats, mude o parâmetro <code>theme=</code> nos links das imagens.</sub>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=davidwajch&show_icons=true&theme=tokyonight&include_all_commits=true&rank_icon=github&hide_border=true" alt="Estatísticas do GitHub de davidwajch" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidwajch&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens mais usadas nos repositórios públicos" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=davidwajch&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt_BR" alt="Sequência de dias com contribuições no GitHub" />
+</p>
+
+<!-- Tema das imagens acima: altere theme=tokyonight para dark, radical, etc. -->
 
 ---
 
@@ -80,7 +76,7 @@ Construo ponta a ponta: **interfaces** (web e mobile), **serviços e APIs**, **d
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-David_Wajchenberg-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-wajchenberg/)
 [![GitHub](https://img.shields.io/badge/GitHub-davidwajch-181717?style=for-the-badge&logo=github)](https://github.com/davidwajch)
-[![Location](https://img.shields.io/badge/São_Paulo-Brasil-239120?style=for-the-badge)](https://github.com/davidwajch)
+![São Paulo, Brasil](https://img.shields.io/badge/São_Paulo-Brasil-239120?style=for-the-badge)
 
 **LinkedIn:** [linkedin.com/in/david-wajchenberg](https://www.linkedin.com/in/david-wajchenberg/)
 
