@@ -23,7 +23,6 @@ jobs:
         env:
           STATS_BASE: ${{ vars.README_STATS_URL }}
         run: |
-          set -e
           BASE="${STATS_BASE:-https://github-readme-stats.vercel.app}"
           BASE="${BASE%/}"
           mkdir -p assets
@@ -31,24 +30,40 @@ jobs:
           retry_curl() {
             local url="$1" out="$2"
             local n=0
-            until curl -fsSL --max-time 90 "$url" -o "$out"; do
+            rm -f "$out"
+            until curl -fsSL --max-time 120 -A "Mozilla/5.0 (compatible; GitHub-Actions)" "$url" -o "$out"; do
+              rm -f "$out"
               n=$((n+1))
-              if [ "$n" -ge 6 ]; then
-                echo "::error::Falhou após 6 tentativas: $url"
+              if [ "$n" -ge 10 ]; then
                 return 1
               fi
-              sleep 20
+              sleep 25
             done
+            if ! grep -q '<svg' "$out" 2>/dev/null; then
+              rm -f "$out"
+              return 1
+            fi
+            return 0
           }
 
-          retry_curl "${BASE}/api?username=davidwajch&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true&cache_seconds=86400" assets/github-stats.svg
-          retry_curl "${BASE}/api/top-langs/?username=davidwajch&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&locale=pt-br&hide_border=true&cache_seconds=86400" assets/github-top-langs.svg
+          fetch_or_keep() {
+            local url="$1" out="$2"
+            if retry_curl "$url" "$out"; then
+              echo "Atualizado: $out"
+            else
+              echo "::warning::Sem resposta válida para $out; mantendo arquivo do repositório."
+              git checkout -- "$out" 2>/dev/null || true
+            fi
+          }
 
-          if curl -fsSL --max-time 90 "https://streak-stats.demolab.com?user=davidwajch&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt_BR" -o assets/github-streak.svg.part; then
+          fetch_or_keep "${BASE}/api?username=davidwajch&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true&cache_seconds=86400" assets/github-stats.svg
+          fetch_or_keep "${BASE}/api/top-langs/?username=davidwajch&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&locale=pt-br&hide_border=true&cache_seconds=86400" assets/github-top-langs.svg
+
+          if curl -fsSL --max-time 120 -A "Mozilla/5.0" "https://streak-stats.demolab.com?user=davidwajch&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt_BR" -o assets/github-streak.svg.part && grep -q '<svg' assets/github-streak.svg.part; then
             mv assets/github-streak.svg.part assets/github-streak.svg
           else
             rm -f assets/github-streak.svg.part
-            echo "::warning::Streak não atualizado; restaurando versão do repositório."
+            echo "::warning::Streak não atualizado."
             git checkout -- assets/github-streak.svg 2>/dev/null || true
           fi
 
