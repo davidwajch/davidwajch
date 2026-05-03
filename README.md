@@ -2,9 +2,7 @@
 
 **`Desenvolvedor Full Stack & Mobile`**
 
-Sou **full stack com foco forte em mobile**: interfaces web e apps, **APIs**, **dados** e integrações — do **React** ao **Flutter**, do **Python** ao **Java**. Base em **São Paulo, Brasil**.
-
-As **estatísticas** abaixo vêm de **SVGs versionados** em [`assets/`](assets/) (servidos pelo próprio GitHub), gerados pelo workflow [`.github/workflows/update-readme-stats.yml`](.github/workflows/update-readme-stats.yml). Assim o perfil não depende da API pública a cada carregamento. **Atualização:** toda segunda (UTC) ou manual em **Actions → Update README stats → Run workflow**. Opcional: variável do repositório `README_STATS_URL` com seu [deploy no Vercel](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance).
+Desenvolvedor full stack com ênfase em mobile: web, APIs, dados, React, Flutter, Python e Java. São Paulo, Brasil.
 
 <p align="left">
   <a href="https://github.com/davidwajch?tab=repositories&sort=stargazers">
@@ -23,7 +21,7 @@ As **estatísticas** abaixo vêm de **SVGs versionados** em [`assets/`](assets/)
   </a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=false&vCenter=true&width=600&lines=Web+%2B+APIs+%2B+Dados;Flutter+%7C+React+%7C+Python+%7C+Java+%7C+C%2B%2B&repeat=true" alt="Linhas animadas" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=false&vCenter=true&width=600&lines=Web+%2B+APIs+%2B+Dados;Flutter+%7C+React+%7C+Python+%7C+Java+%7C+C%2B%2B&repeat=true" alt="" />
 
 ##
 
@@ -42,8 +40,6 @@ As **estatísticas** abaixo vêm de **SVGs versionados** em [`assets/`](assets/)
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </p>
-
-<sub>Badges com <strong>nome + ícone</strong> via <a href="https://shields.io">Shields.io</a> (padrão em READMEs; não precisa de componente extra).</sub>
 
 <br/>
 
@@ -75,15 +71,6 @@ As **estatísticas** abaixo vêm de **SVGs versionados** em [`assets/`](assets/)
     alt="Sequência de contribuições"
   />
 </p>
-
-<details>
-<summary><strong>API ao vivo (debug / comparar com o SVG commitado)</strong></summary>
-
-- [Card — estatísticas gerais](https://github-readme-stats.vercel.app/api?username=davidwajch&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true&cache_seconds=86400)
-- [Card — linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=davidwajch&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&locale=pt-br&hide_border=true&cache_seconds=86400)
-- [Streak](https://streak-stats.demolab.com?user=davidwajch&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt_BR)
-
-</details>
 
 ##
 

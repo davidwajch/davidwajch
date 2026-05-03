@@ -1,15 +1,9 @@
-# Baixa os SVGs do GitHub Readme Stats (e streak) e faz commit em assets/.
-# O README aponta para raw.githubusercontent.com → muito mais estável que bater na API a cada pageview.
-#
-# Opcional: em Settings → Secrets and variables → Actions → Variables, crie README_STATS_URL
-# com a URL do seu deploy (ex: https://seu-projeto.vercel.app) para não depender da instância pública.
-
 name: Update README stats
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 3 * * 1" # toda segunda, 03:00 UTC
+    - cron: "0 3 * * 1"
 
 permissions:
   contents: write
@@ -25,7 +19,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Baixar SVGs (com retentativas)
+      - name: Baixar SVGs
         env:
           STATS_BASE: ${{ vars.README_STATS_URL }}
         run: |
@@ -43,7 +37,6 @@ jobs:
                 echo "::error::Falhou após 6 tentativas: $url"
                 return 1
               fi
-              echo "Tentativa $n falhou, aguardando 20s..."
               sleep 20
             done
           }
@@ -65,7 +58,6 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add assets/github-stats.svg assets/github-top-langs.svg assets/github-streak.svg
           if git diff --staged --quiet; then
-            echo "Nenhuma alteração nos SVGs."
             exit 0
           fi
           git commit -m "chore: atualizar SVGs das estatísticas do README"
