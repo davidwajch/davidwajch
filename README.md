@@ -1,3 +1,9 @@
+## David Wajchenberg
+
+**`Full Stack & Mobile`** · São Paulo.
+
+Web, mobile, APIs e dados (React, Flutter, Python, Java).
+
 ### Estatísticas
 
 <p align="left">
