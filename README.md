@@ -4,7 +4,7 @@
 
 Sou **full stack com foco forte em mobile**: interfaces web e apps, **APIs**, **dados** e integrações — do **React** ao **Flutter**, do **Python** ao **Java**. Base em **São Paulo, Brasil**.
 
-Pessoal que veio atrás do **GitHub Stats:** a API pública às vezes fica instável; você pode hospedar a sua seguindo este [tutorial (deploy no Vercel)](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance).
+As **estatísticas** abaixo vêm de **SVGs versionados** em [`assets/`](assets/) (servidos pelo próprio GitHub), gerados pelo workflow [`.github/workflows/update-readme-stats.yml`](.github/workflows/update-readme-stats.yml). Assim o perfil não depende da API pública a cada carregamento. **Atualização:** toda segunda (UTC) ou manual em **Actions → Update README stats → Run workflow**. Opcional: variável do repositório `README_STATS_URL` com seu [deploy no Vercel](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance).
 
 <p align="left">
   <a href="https://github.com/davidwajch?tab=repositories&sort=stargazers">
@@ -45,61 +45,37 @@ Pessoal que veio atrás do **GitHub Stats:** a API pública às vezes fica inst�
 
 ### Estatísticas
 
-<sub>O README do GitHub <strong>não executa JavaScript</strong> (não dá para usar <code>onerror</code> ou try/catch nas imagens). Se o proxy <strong>Camo</strong> falhar, use os links abaixo ou <strong>clique nas imagens</strong> para abrir a mesma URL direto no navegador. Solução definitiva: <a href="https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance">deploy próprio no Vercel</a>.</sub>
-
-<!-- URLs dos cards (mantém igual em href e src para clicar = mesma API) -->
 <p>
-  <a
-    target="_blank"
-    rel="noopener noreferrer"
-    title="Abrir card de estatísticas (se a imagem não carregar)"
-    href="https://github-readme-stats.vercel.app/api?username=davidwajch&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true&cache_seconds=86400"
-  >
-    <img
-      align="left"
-      alt="GitHub Stats"
-      height="200"
-      style="padding-right: 10px;"
-      src="https://github-readme-stats.vercel.app/api?username=davidwajch&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true&cache_seconds=86400"
-    />
-  </a>
-  <a
-    target="_blank"
-    rel="noopener noreferrer"
-    title="Abrir card de linguagens (se a imagem não carregar)"
-    href="https://github-readme-stats.vercel.app/api/top-langs/?username=davidwajch&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&locale=pt-br&hide_border=true&cache_seconds=86400"
-  >
-    <img
-      align="left"
-      alt="Linguagens mais usadas"
-      height="200"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidwajch&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&locale=pt-br&hide_border=true&cache_seconds=86400"
-    />
-  </a>
+  <img
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    style="padding-right: 10px;"
+    src="https://raw.githubusercontent.com/davidwajch/davidwajch/main/assets/github-stats.svg"
+  />
+  <img
+    align="left"
+    alt="Linguagens mais usadas"
+    height="200"
+    src="https://raw.githubusercontent.com/davidwajch/davidwajch/main/assets/github-top-langs.svg"
+  />
 </p>
 
 <br clear="both"/>
 
 <p align="center">
-  <a
-    target="_blank"
-    rel="noopener noreferrer"
-    title="Abrir streak (se a imagem não carregar)"
-    href="https://streak-stats.demolab.com?user=davidwajch&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt_BR"
-  >
-    <img
-      src="https://streak-stats.demolab.com?user=davidwajch&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt_BR"
-      alt="Sequência de contribuições"
-    />
-  </a>
+  <img
+    src="https://raw.githubusercontent.com/davidwajch/davidwajch/main/assets/github-streak.svg"
+    alt="Sequência de contribuições"
+  />
 </p>
 
 <details>
-<summary><strong>Imagem com “Error Fetching Resource”? Abrir direto (sem proxy do GitHub)</strong></summary>
+<summary><strong>API ao vivo (debug / comparar com o SVG commitado)</strong></summary>
 
 - [Card — estatísticas gerais](https://github-readme-stats.vercel.app/api?username=davidwajch&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&hide_border=true&cache_seconds=86400)
 - [Card — linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=davidwajch&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&locale=pt-br&hide_border=true&cache_seconds=86400)
-- [Streak de contribuições](https://streak-stats.demolab.com?user=davidwajch&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt_BR)
+- [Streak](https://streak-stats.demolab.com?user=davidwajch&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt_BR)
 
 </details>
 
