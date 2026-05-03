@@ -29,23 +29,15 @@ Pessoal que veio atrás do **GitHub Stats:** a API pública às vezes fica inst�
 
 ### Linguagens e tecnologias
 
-<div align="center">
-<table>
-<tr>
-<td align="center" valign="middle"><img alt="Flutter" title="Flutter" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"></td>
-<td align="center" valign="middle"><img alt="Dart" title="Dart" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"></td>
-<td align="center" valign="middle"><img alt="React" title="React" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></td>
-<td align="center" valign="middle"><img alt="JavaScript" title="JavaScript" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></td>
-<td align="center" valign="middle"><img alt="Python" title="Python" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></td>
-<td align="center" valign="middle"><img alt="Java" title="Java" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></td>
-<td align="center" valign="middle"><img alt="Spring" title="Spring" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"></td>
-<td align="center" valign="middle"><img alt="PostgreSQL" title="PostgreSQL" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"></td>
-<td align="center" valign="middle"><img alt="Firebase" title="Firebase" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg"></td>
-<td align="center" valign="middle"><img alt="C++" title="C++" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></td>
-<td align="center" valign="middle"><img alt="Git" title="Git" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></td>
-</tr>
-</table>
-</div>
+<p align="center">
+  <img
+    alt="Flutter, Dart, React, JavaScript, Python, Java, Spring, PostgreSQL, Firebase, C++, Git"
+    title="Principais tecnologias"
+    src="https://skillicons.dev/icons?i=flutter,dart,react,js,python,java,spring,postgres,firebase,cpp,git&perline=6&theme=dark"
+  />
+</p>
+
+<sub>Grade única gerada com <a href="https://skillicons.dev">Skill Icons</a>. Para mudar o visual: edite a lista <code>i=</code> na URL, use <code>perline=</code> (quantos ícones por linha) e <code>theme=dark</code> ou <code>light</code>.</sub>
 
 <br/>
 
