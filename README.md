@@ -29,15 +29,21 @@ As **estatísticas** abaixo vêm de **SVGs versionados** em [`assets/`](assets/)
 
 ### Linguagens e tecnologias
 
-<p align="center">
-  <img
-    alt="Flutter, Dart, React, JavaScript, Python, Java, Spring, PostgreSQL, Firebase, C++, Git"
-    title="Principais tecnologias"
-    src="https://skillicons.dev/icons?i=flutter,dart,react,js,python,java,spring,postgres,firebase,cpp,git&perline=6&theme=dark"
-  />
+<p align="left">
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </p>
 
-<sub>Grade única gerada com <a href="https://skillicons.dev">Skill Icons</a>. Para mudar o visual: edite a lista <code>i=</code> na URL, use <code>perline=</code> (quantos ícones por linha) e <code>theme=dark</code> ou <code>light</code>.</sub>
+<sub>Badges com <strong>nome + ícone</strong> via <a href="https://shields.io">Shields.io</a> (padrão em READMEs; não precisa de componente extra).</sub>
 
 <br/>
 
@@ -84,6 +90,5 @@ As **estatísticas** abaixo vêm de **SVGs versionados** em [`assets/`](assets/)
 ### Contato
 
 <div>
-  <a href="https://www.linkedin.com/in/david-wajchenberg/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/davidwajch" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://www.linkedin.com/in/david-wajchenberg/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </div>
