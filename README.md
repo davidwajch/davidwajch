@@ -45,23 +45,6 @@ Pessoal que veio atrás do **GitHub Stats:** a API pública às vezes fica inst�
 
 <br/>
 
-### Nível de uso nas tecnologias (%)
-
-<sub>Estimativa do dia a dia — altere o número em <code>progress-bar.dev/<b>90</b>/</code> na URL de cada barra.</sub>
-
-| Tecnologia | Uso |
-|:--|:--|
-| **Flutter / Dart** | ![](https://progress-bar.dev/90/?width=420&color=02569B&title=Flutter%20%2F%20Dart) |
-| **React** | ![](https://progress-bar.dev/72/?width=420&color=61DAFB&title=React) |
-| **JavaScript** | ![](https://progress-bar.dev/76/?width=420&color=F7DF1E&title=JavaScript) |
-| **Python** | ![](https://progress-bar.dev/78/?width=420&color=3776AB&title=Python) |
-| **Java** | ![](https://progress-bar.dev/70/?width=420&color=ED8B00&title=Java) |
-| **Spring Boot** | ![](https://progress-bar.dev/68/?width=420&color=6DB33F&title=Spring%20Boot) |
-| **PostgreSQL** | ![](https://progress-bar.dev/72/?width=420&color=316192&title=PostgreSQL) |
-| **Firebase** | ![](https://progress-bar.dev/70/?width=420&color=FFCA28&title=Firebase) |
-| **C++** | ![](https://progress-bar.dev/58/?width=420&color=00599C&title=C%2B%2B) |
-| **Git** | ![](https://progress-bar.dev/82/?width=420&color=F05032&title=Git) |
-
 ##
 
 ### Estatísticas
